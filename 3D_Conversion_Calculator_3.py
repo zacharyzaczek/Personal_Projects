@@ -1,5 +1,5 @@
-#Brians 3D Printing Program
-#Created by Best Friend, Zachary Zaczek 10/4/2024
+#3D Printing Program
+#Created by Zachary Zaczek 10/4/2024
 
 def main():
     print(" _____ ____     ____                              _             ")
